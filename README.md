@@ -2,6 +2,9 @@
 
 This repository showcases a comprehensive financial analytics dashboard built in Power BI Desktop. Designed to support business decision-making, the dashboard provides a clear and intuitive view of an organization’s financial performance across key dimensions and timelines.
 
+## Visual Preview
+![Image](https://github.com/user-attachments/assets/48dcdd87-b3e1-4544-9fc0-4f02f9d4e352)
+
 
 ## What You’ll Find Inside
 - Overview Page: Key financial indicators with year-over-year comparisons
